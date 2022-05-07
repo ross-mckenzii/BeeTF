@@ -1,6 +1,6 @@
 # BeeTF
 
-A bee-themed Capture The Flag challenge for my university's cyber security society! Use every tool at your disposal to uncover the sinister secrets of the Honeynet!
+A bee-themed Capture The Flag challenge for my university's cyber security society! Use every tool at your disposal to uncover the sinister secrets of the Honeypot!
 
 # Setup Instructions
 
